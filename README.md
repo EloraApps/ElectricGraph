@@ -1,4 +1,4 @@
 ElectricGraph
 =============
 
-Programa para ver el histórico de curvas del precio energetico en españa y portugal
+Programa para ver el histórico de curvas del precio energético en España y Portugal.
